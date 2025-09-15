@@ -1,0 +1,15 @@
+.playlistsPage {
+ color: blanchedalmond;
+}
+
+.playlists {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.playlists a {
+    color: cornflowerblue;
+    cursor: pointer;
+
+}
