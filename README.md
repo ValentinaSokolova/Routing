@@ -2,8 +2,14 @@
  Working out routing on website with react. This site maked with stack - react, ts, vite
 
 
-For correct work:
---- 
---npm i
+Demonstration application.
+Consists of several pages: main, user list, information about a specific user, playlists.
 
---npm run dev
+
+<hr />
+
+### Starting development mode
+
+```sh
+npm run dev
+```
